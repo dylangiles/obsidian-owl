@@ -1,0 +1,10 @@
+{
+  "name": "obsidian-owl",
+  "version": "0.0.1",
+  "description": "A port of Sarah Drasner's Night Owl theme to the Obsidian notes editor.",
+  "main": "index.js",
+  "repository": "https://github.com/dylangiles/obsidian-owl.git",
+  "author": "Dylan Giles",
+  "license": "MIT",
+  "private": false
+}
